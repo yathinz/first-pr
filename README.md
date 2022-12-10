@@ -98,7 +98,7 @@ replacing `your-branch-name` with the name of the branch you created earlier.
 ## Submit your changes for review
 
 If you go to your repository on GitHub, you'll see a `Compare & pull request` button. Click on that button.
-![68747470733a2f2f6669727374636f6e747269627574696f6e732e6769746875622e696f2f6173736574732f526561646d652f636f6d706172652d616e642d70756c6c2e706e67](https://user-images.githubusercontent.com/93030904/206855336-9c00752e-d9b3-42e7-a9c4-52a64ee52088.png)
+
 
 
 <img style="float: right;" src="https://user-images.githubusercontent.com/93030904/206855336-9c00752e-d9b3-42e7-a9c4-52a64ee52088.png" alt="create a pull request" />
