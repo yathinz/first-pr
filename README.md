@@ -6,7 +6,7 @@ Fork this repository by clicking on the fork button on the top of this page.
 This will create a copy of this repository in your account.
 
 ## Clone the repository
-![68747470733a2f2f6669727374636f6e747269627574696f6e732e6769746875622e696f2f6173736574732f526561646d652f636c6f6e652e706e67](https://user-images.githubusercontent.com/93030904/206855000-eb42c8bf-aa56-4f05-aa82-bb8a8fddae81.png)
+
 
 <img align="right" width="300" src="https://user-images.githubusercontent.com/93030904/206855000-eb42c8bf-aa56-4f05-aa82-bb8a8fddae81.png" alt="clone this repository" />
 
@@ -19,7 +19,7 @@ git clone "url you just copied"
 ```
 
 where "url you just copied" (without the quotation marks) is the url to this repository (your fork of this project). See the previous steps to obtain the url.
-![68747470733a2f2f6669727374636f6e747269627574696f6e732e6769746875622e696f2f6173736574732f526561646d652f636f70792d746f2d636c6970626f6172642e706e67](https://user-images.githubusercontent.com/93030904/206855026-df01a4e1-9873-42a0-b9fc-828302cfb125.png)
+
 
 <img align="right" width="300" src="https://user-images.githubusercontent.com/93030904/206855026-df01a4e1-9873-42a0-b9fc-828302cfb125.png" alt="copy URL to clipboard" />
 
@@ -98,9 +98,10 @@ replacing `your-branch-name` with the name of the branch you created earlier.
 ## Submit your changes for review
 
 If you go to your repository on GitHub, you'll see a `Compare & pull request` button. Click on that button.
-![68747470733a2f2f6669727374636f6e747269627574696f6e732e6769746875622e696f2f6173736574732f526561646d652f6769742d7374617475732e706e67](https://user-images.githubusercontent.com/93030904/206855158-08e54c1c-9e17-4695-889b-38c9c0ae03f1.png)
+![68747470733a2f2f6669727374636f6e747269627574696f6e732e6769746875622e696f2f6173736574732f526561646d652f636f6d706172652d616e642d70756c6c2e706e67](https://user-images.githubusercontent.com/93030904/206855336-9c00752e-d9b3-42e7-a9c4-52a64ee52088.png)
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
+
+<img style="float: right;" src="https://user-images.githubusercontent.com/93030904/206855336-9c00752e-d9b3-42e7-a9c4-52a64ee52088.png" alt="create a pull request" />
 
 Now submit the pull request.
 
