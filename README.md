@@ -1,8 +1,9 @@
 # First Pull Request
 
+<img align="right" width="300" src="https://user-images.githubusercontent.com/93030904/206855741-6e98c274-ce00-494c-bf88-9c2f099409e3.png" alt="clone this repository" />
+
 ## Fork this repository
 
-<img align="right" width="300" src="https://user-images.githubusercontent.com/93030904/206855741-6e98c274-ce00-494c-bf88-9c2f099409e3.png" alt="clone this repository" />
 
 Fork this repository by clicking on the fork button on the top of this page.
 This will create a copy of this repository in your account.
