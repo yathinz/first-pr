@@ -6,8 +6,9 @@ Fork this repository by clicking on the fork button on the top of this page.
 This will create a copy of this repository in your account.
 
 ## Clone the repository
+![68747470733a2f2f6669727374636f6e747269627574696f6e732e6769746875622e696f2f6173736574732f526561646d652f636c6f6e652e706e67](https://user-images.githubusercontent.com/93030904/206855000-eb42c8bf-aa56-4f05-aa82-bb8a8fddae81.png)
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
+<img align="right" width="300" src="https://user-images.githubusercontent.com/93030904/206855000-eb42c8bf-aa56-4f05-aa82-bb8a8fddae81.png" alt="clone this repository" />
 
 Now clone the forked repository to your machine. Go to your GitHub account, open the forked repository, click on the code button and then click the _copy to clipboard_ icon.
 
@@ -18,13 +19,14 @@ git clone "url you just copied"
 ```
 
 where "url you just copied" (without the quotation marks) is the url to this repository (your fork of this project). See the previous steps to obtain the url.
+![68747470733a2f2f6669727374636f6e747269627574696f6e732e6769746875622e696f2f6173736574732f526561646d652f636f70792d746f2d636c6970626f6172642e706e67](https://user-images.githubusercontent.com/93030904/206855026-df01a4e1-9873-42a0-b9fc-828302cfb125.png)
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
+<img align="right" width="300" src="https://user-images.githubusercontent.com/93030904/206855026-df01a4e1-9873-42a0-b9fc-828302cfb125.png" alt="copy URL to clipboard" />
 
 For example:
 
 ```
-git clone https://github.com/this-is-you/First-PR.git
+git clone https://github.com/this-is-you/first-pr.git
 ```
 
 where `this-is-you` is your GitHub username. Here you're copying the contents of the first-contributions repository on GitHub to your computer.
@@ -53,7 +55,8 @@ git switch -c add-alonzo-church
 
 Now open `Contributors.md` file in a text editor, add your name to it. Don't add it at the beginning or end of the file. Put it anywhere in between. Now, save the file.
 
-<img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
+
+<img align="right" width="450" src="https://user-images.githubusercontent.com/93030904/206855068-4b50d277-20dd-48f7-a141-412e2e4be919.png" alt="git status" />
 
 If you go to the project directory and execute the command `git status`, you'll see there are changes.
 
@@ -95,11 +98,13 @@ replacing `your-branch-name` with the name of the branch you created earlier.
 ## Submit your changes for review
 
 If you go to your repository on GitHub, you'll see a `Compare & pull request` button. Click on that button.
+![68747470733a2f2f6669727374636f6e747269627574696f6e732e6769746875622e696f2f6173736574732f526561646d652f6769742d7374617475732e706e67](https://user-images.githubusercontent.com/93030904/206855158-08e54c1c-9e17-4695-889b-38c9c0ae03f1.png)
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
 
 Now submit the pull request.
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
+
+<img style="float: right;" src="https://user-images.githubusercontent.com/93030904/206855111-1e009ef7-e6a2-4a30-9ff4-249aed7a8ae6.png" alt="submit pull request" />
 
 Soon I'll be merging all your changes into the main branch of this project. You will get a notification email once the changes have been merged.
