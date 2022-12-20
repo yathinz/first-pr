@@ -1,5 +1,5 @@
-#### Name: [Priyanshu Kumar](https://github.com/kumarpriyanshu2k2)
+#### Name: [Atul M](https://github.com/RoboAM13)
 
 - Place: Patna, Bihar, India
-- Bio: I am a Computer Science Engineering student from Birla institute of technology and sciences.
-- GitHub: [Priyanshu Kumar](https://github.com/kumarpriyanshu2k2)
+- Bio: I am a Electronics and Communications Engineering Student from BITS GOA
+- GitHub: [Atul M](https://github.com/RoboAM13)
